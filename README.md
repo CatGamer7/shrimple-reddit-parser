@@ -10,8 +10,8 @@ Shrimple Reddit Parser - a basic CLI utility for parsing reddit communities with
 This parser aims to extract to submissions and their comments from the specific subreddit. Submissions are searched for by flairs and keywords.
 
 There are several parsing modes:
-1. Extract submissions with passed flairs. Will ignore all submissions with no flairs (will only extract newer submissons).
-2. Extract submissions with passed keywords and no passed flairs. Will ignore newer submissons.
+1. Extract submissions with passed flairs. Will ignore all submissions with no flairs (will only extract newer submissions).
+2. Extract submissions with passed keywords and no passed flairs. Will ignore newer submissions.
 3. Extract submissions with passed keywords regardless of flairs. 
 
 Try the following command to get descriptions of all the CLI arguments
