@@ -7,7 +7,7 @@ Shrimple Reddit Parser - a basic CLI utility for parsing reddit communities with
 3. [/parser/parser.py](/parser/parser.py) - Parser logic.
 
 # Overview
-This parser aims to extract to submissions and their comments from the specific subreddit. Submissions are searched for by flairs and keywords.
+This parser aims to extract submissions and their comments from the specific subreddit. Submissions are searched for by flairs and keywords.
 
 There are several parsing modes:
 1. Extract submissions with passed flairs. Will ignore all submissions with no flairs (will only extract newer submissions).
